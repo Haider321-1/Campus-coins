@@ -475,3 +475,4 @@ Socket.io shares the same HTTP server; the client handshake must include
 | Client can't reach the API | Ensure the server runs on `:5000`, or set `API_PROXY_URL` / `NEXT_PUBLIC_API_URL` accordingly |
 | Voice mic unavailable | Use Chrome/Edge and grant microphone permission (needs HTTPS or localhost) |
 | AI answers look "rule-based" | No `GROQ_API_KEY`/`OPENROUTER_API_KEY` set — that's the intended offline fallback |
+"# Campus-coins" 
